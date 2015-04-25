@@ -2,7 +2,3 @@
 Version=1.0
 [Project1]
 ProjectPath=ADCBoard.PrjPCB
-[Project2]
-ProjectPath=..\..\..\Видео\doctor\Altium Unified Components\Altera\Altera MAX V\Altera MAX V.LibPkg
-[Project3]
-ProjectPath=..\..\tracker\volody\schem\Autotracker.PrjPCB
